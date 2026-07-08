@@ -1,0 +1,9 @@
+-Iinclude
+-Iinclude/Edk2
+-Iinclude/Edk2/X64
+
+-O2
+-ffast-math
+-ffreestanding
+-fshort-wchar
+-mno-red-zone
