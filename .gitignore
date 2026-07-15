@@ -1,4 +1,5 @@
+/.cache
 /build
 /image
-OVMF_CODE_4M.fd
-OVMF_VARS_4M.fd
+/ovmf
+compile_commands.json

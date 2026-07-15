@@ -1,7 +1,5 @@
 #!/bin/bash
 
-./build.sh
-
 sudo umount /dev/sda1
 
 sudo parted /dev/sda --script \
